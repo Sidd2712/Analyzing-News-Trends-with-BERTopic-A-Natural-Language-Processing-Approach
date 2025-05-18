@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "name": "The Hindu",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:thehindu&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Indian Express",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:indianexpress&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Times of India",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:timesofindia&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "NDTV",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:ndtv&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "Hindustan Times",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:hindustantimes&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:bbc&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "name": "ANI News",
+      "url": "https://news.google.com/rss/search?q=pahalgam+terror+attack+source:aninews&hl=en-IN&gl=IN&ceid=IN:en"
+    }
+  ]
+}
